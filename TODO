@@ -1,0 +1,13 @@
+
+Things todo in the project:
+    ✔ Create JSON file with the mapping object @done(19-09-21 17:59)
+    ✔ Configure a good workspace environment @done(19-09-21 18:23)
+    ✔ every time the server runs extract the mapping object from the json file @done(19-09-21 18:23)
+    ✔ every time it checks the prices update the json file @done(19-09-21 18:23)
+    ✔ find a way to retrieve the hmtl from the pages @done(19-09-21 20:34)
+    ✔ Find a way to extract the price value from that html @done(19-09-21 20:34)
+    ☐ Find the correct time period for the updates of the prices 
+    ✔ Create a mapping object between the url and their specific price location @done(19-09-21 20:34)
+    ☐ Create a log system with every extraction of the prices (opc)
+    ☐ Find a way to send an email every time a price drops
+    ✔ Evey time a price drops add a new lowest value to the mapping object @done(19-09-21 20:34)
